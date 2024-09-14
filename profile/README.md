@@ -1,7 +1,6 @@
-<div align="center">
+<h1>AegisLenz</h1>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=104F55&height=300&section=header&text=AegisLenz&fontSize=90&fontColor=02343F)
-<p align="center">
-  - BOB13 Dev track Project
-  - Supports security for cloud accounts
-</div>
+<p align="left">
+  - BOB13 Dev track Project<br/>
+  - Supports security for cloud accounts<br/>
+</p>
